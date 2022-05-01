@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+    background-color: #393E46;
+}
+
+img {
+  width: 10%;
+    text-align: center;
+
+}
+
+
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #F582A7;
+}
+
+button {
+  background-color: #F582A7;
+
+  margin-top: 1rem;
+  width: 6rem;
+  height: 2rem;
+  border-radius: .5rem;
+  border: none;
+
+  color: #393E46;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.5;
+  color: #000000;
+}
+
+
+footer {
+  margin-top: 3%;
+
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
